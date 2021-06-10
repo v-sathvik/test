@@ -1,0 +1,4 @@
+flask
+pyodbc
+ibm_db
+ibm-cos-sdk
